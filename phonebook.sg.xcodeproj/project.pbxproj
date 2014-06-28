@@ -21,6 +21,26 @@
 		C391FC3E194C167500D9D6B2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C391FC20194C167500D9D6B2 /* UIKit.framework */; };
 		C391FC46194C167500D9D6B2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C391FC44194C167500D9D6B2 /* InfoPlist.strings */; };
 		C391FC48194C167500D9D6B2 /* phonebook_sgTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C391FC47194C167500D9D6B2 /* phonebook_sgTests.m */; };
+		C391FC53194C2BB700D9D6B2 /* PBItem.m in Sources */ = {isa = PBXBuildFile; fileRef = C391FC52194C2BB700D9D6B2 /* PBItem.m */; };
+		C391FC55194C49A100D9D6B2 /* policeman-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C391FC54194C49A100D9D6B2 /* policeman-100.png */; };
+		C391FC57194C49DB00D9D6B2 /* partly_cloudy_day-128.png in Resources */ = {isa = PBXBuildFile; fileRef = C391FC56194C49DB00D9D6B2 /* partly_cloudy_day-128.png */; };
+		C391FC59194C4A0D00D9D6B2 /* ambulance-128.png in Resources */ = {isa = PBXBuildFile; fileRef = C391FC58194C4A0D00D9D6B2 /* ambulance-128.png */; };
+		C391FC5B194C4A1700D9D6B2 /* medical_thermometer-128.png in Resources */ = {isa = PBXBuildFile; fileRef = C391FC5A194C4A1700D9D6B2 /* medical_thermometer-128.png */; };
+		C391FC5D194C4A3E00D9D6B2 /* motorcycle-128.png in Resources */ = {isa = PBXBuildFile; fileRef = C391FC5C194C4A3E00D9D6B2 /* motorcycle-128.png */; };
+		C39CA292194C54D40065E175 /* pizza-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA291194C54D40065E175 /* pizza-100.png */; };
+		C39CA294194C54ED0065E175 /* french_fries-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA293194C54ED0065E175 /* french_fries-100.png */; };
+		C39CA296194C55140065E175 /* humburger-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA295194C55140065E175 /* humburger-100.png */; };
+		C39CA298194C55830065E175 /* chicken-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA297194C55830065E175 /* chicken-100.png */; };
+		C39CA29A194C55A60065E175 /* taxi-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA299194C55A60065E175 /* taxi-100.png */; };
+		C39CA29C194CBBF50065E175 /* phone2-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA29B194CBBF50065E175 /* phone2-100.png */; };
+		C39CA29E194CBFE30065E175 /* airplane_take_off-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA29D194CBFE30065E175 /* airplane_take_off-100.png */; };
+		C39CA2A0194CC1720065E175 /* airport-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA29F194CC1720065E175 /* airport-100.png */; };
+		C39CA2A2194CC1DA0065E175 /* recycle_sign-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA2A1194CC1DA0065E175 /* recycle_sign-100.png */; };
+		C39CA2A4194CC2170065E175 /* hotel-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA2A3194CC2170065E175 /* hotel-100.png */; };
+		C39CA2A6194CC2450065E175 /* road_closure-100.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA2A5194CC2450065E175 /* road_closure-100.png */; };
+		C39CA2A8194CCC6B0065E175 /* settings-50.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA2A7194CCC6B0065E175 /* settings-50.png */; };
+		C39CA2AA194CCC9B0065E175 /* settings-25.png in Resources */ = {isa = PBXBuildFile; fileRef = C39CA2A9194CCC9B0065E175 /* settings-25.png */; };
+		C39CA2AD194CCE070065E175 /* PBAboutUsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C39CA2AC194CCE070065E175 /* PBAboutUsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +73,28 @@
 		C391FC43194C167500D9D6B2 /* phonebook.sgTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "phonebook.sgTests-Info.plist"; sourceTree = "<group>"; };
 		C391FC45194C167500D9D6B2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C391FC47194C167500D9D6B2 /* phonebook_sgTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = phonebook_sgTests.m; sourceTree = "<group>"; };
+		C391FC51194C2BB700D9D6B2 /* PBItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PBItem.h; sourceTree = "<group>"; };
+		C391FC52194C2BB700D9D6B2 /* PBItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBItem.m; sourceTree = "<group>"; };
+		C391FC54194C49A100D9D6B2 /* policeman-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "policeman-100.png"; sourceTree = "<group>"; };
+		C391FC56194C49DB00D9D6B2 /* partly_cloudy_day-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "partly_cloudy_day-128.png"; sourceTree = "<group>"; };
+		C391FC58194C4A0D00D9D6B2 /* ambulance-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ambulance-128.png"; sourceTree = "<group>"; };
+		C391FC5A194C4A1700D9D6B2 /* medical_thermometer-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medical_thermometer-128.png"; sourceTree = "<group>"; };
+		C391FC5C194C4A3E00D9D6B2 /* motorcycle-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "motorcycle-128.png"; sourceTree = "<group>"; };
+		C39CA291194C54D40065E175 /* pizza-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pizza-100.png"; sourceTree = "<group>"; };
+		C39CA293194C54ED0065E175 /* french_fries-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "french_fries-100.png"; sourceTree = "<group>"; };
+		C39CA295194C55140065E175 /* humburger-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "humburger-100.png"; sourceTree = "<group>"; };
+		C39CA297194C55830065E175 /* chicken-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chicken-100.png"; sourceTree = "<group>"; };
+		C39CA299194C55A60065E175 /* taxi-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "taxi-100.png"; sourceTree = "<group>"; };
+		C39CA29B194CBBF50065E175 /* phone2-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone2-100.png"; sourceTree = "<group>"; };
+		C39CA29D194CBFE30065E175 /* airplane_take_off-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "airplane_take_off-100.png"; sourceTree = "<group>"; };
+		C39CA29F194CC1720065E175 /* airport-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "airport-100.png"; sourceTree = "<group>"; };
+		C39CA2A1194CC1DA0065E175 /* recycle_sign-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recycle_sign-100.png"; sourceTree = "<group>"; };
+		C39CA2A3194CC2170065E175 /* hotel-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hotel-100.png"; sourceTree = "<group>"; };
+		C39CA2A5194CC2450065E175 /* road_closure-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "road_closure-100.png"; sourceTree = "<group>"; };
+		C39CA2A7194CCC6B0065E175 /* settings-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "settings-50.png"; sourceTree = "<group>"; };
+		C39CA2A9194CCC9B0065E175 /* settings-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "settings-25.png"; sourceTree = "<group>"; };
+		C39CA2AB194CCE070065E175 /* PBAboutUsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PBAboutUsViewController.h; sourceTree = "<group>"; };
+		C39CA2AC194CCE070065E175 /* PBAboutUsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBAboutUsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +159,10 @@
 				C391FC2E194C167500D9D6B2 /* Main.storyboard */,
 				C391FC31194C167500D9D6B2 /* PBViewController.h */,
 				C391FC32194C167500D9D6B2 /* PBViewController.m */,
+				C39CA2AB194CCE070065E175 /* PBAboutUsViewController.h */,
+				C39CA2AC194CCE070065E175 /* PBAboutUsViewController.m */,
+				C391FC51194C2BB700D9D6B2 /* PBItem.h */,
+				C391FC52194C2BB700D9D6B2 /* PBItem.m */,
 				C391FC34194C167500D9D6B2 /* Images.xcassets */,
 				C391FC23194C167500D9D6B2 /* Supporting Files */,
 			);
@@ -126,6 +172,24 @@
 		C391FC23194C167500D9D6B2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C391FC54194C49A100D9D6B2 /* policeman-100.png */,
+				C391FC56194C49DB00D9D6B2 /* partly_cloudy_day-128.png */,
+				C391FC58194C4A0D00D9D6B2 /* ambulance-128.png */,
+				C391FC5A194C4A1700D9D6B2 /* medical_thermometer-128.png */,
+				C391FC5C194C4A3E00D9D6B2 /* motorcycle-128.png */,
+				C39CA2A1194CC1DA0065E175 /* recycle_sign-100.png */,
+				C39CA291194C54D40065E175 /* pizza-100.png */,
+				C39CA2A5194CC2450065E175 /* road_closure-100.png */,
+				C39CA293194C54ED0065E175 /* french_fries-100.png */,
+				C39CA2A3194CC2170065E175 /* hotel-100.png */,
+				C39CA2A9194CCC9B0065E175 /* settings-25.png */,
+				C39CA2A7194CCC6B0065E175 /* settings-50.png */,
+				C39CA295194C55140065E175 /* humburger-100.png */,
+				C39CA297194C55830065E175 /* chicken-100.png */,
+				C39CA299194C55A60065E175 /* taxi-100.png */,
+				C39CA29B194CBBF50065E175 /* phone2-100.png */,
+				C39CA29D194CBFE30065E175 /* airplane_take_off-100.png */,
+				C39CA29F194CC1720065E175 /* airport-100.png */,
 				C391FC24194C167500D9D6B2 /* phonebook.sg-Info.plist */,
 				C391FC25194C167500D9D6B2 /* InfoPlist.strings */,
 				C391FC28194C167500D9D6B2 /* main.m */,
@@ -200,6 +264,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = jRios;
 				TargetAttributes = {
+					C391FC18194C167500D9D6B2 = {
+						DevelopmentTeam = F29Y426H37;
+					};
 					C391FC39194C167500D9D6B2 = {
 						TestTargetID = C391FC18194C167500D9D6B2;
 					};
@@ -230,7 +297,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				C391FC35194C167500D9D6B2 /* Images.xcassets in Resources */,
+				C39CA2A0194CC1720065E175 /* airport-100.png in Resources */,
+				C39CA29A194C55A60065E175 /* taxi-100.png in Resources */,
+				C39CA2A6194CC2450065E175 /* road_closure-100.png in Resources */,
+				C39CA292194C54D40065E175 /* pizza-100.png in Resources */,
+				C39CA2A4194CC2170065E175 /* hotel-100.png in Resources */,
+				C39CA296194C55140065E175 /* humburger-100.png in Resources */,
 				C391FC27194C167500D9D6B2 /* InfoPlist.strings in Resources */,
+				C391FC55194C49A100D9D6B2 /* policeman-100.png in Resources */,
+				C39CA298194C55830065E175 /* chicken-100.png in Resources */,
+				C391FC5B194C4A1700D9D6B2 /* medical_thermometer-128.png in Resources */,
+				C39CA2A2194CC1DA0065E175 /* recycle_sign-100.png in Resources */,
+				C39CA29E194CBFE30065E175 /* airplane_take_off-100.png in Resources */,
+				C391FC57194C49DB00D9D6B2 /* partly_cloudy_day-128.png in Resources */,
+				C391FC59194C4A0D00D9D6B2 /* ambulance-128.png in Resources */,
+				C39CA294194C54ED0065E175 /* french_fries-100.png in Resources */,
+				C39CA29C194CBBF50065E175 /* phone2-100.png in Resources */,
+				C39CA2AA194CCC9B0065E175 /* settings-25.png in Resources */,
+				C39CA2A8194CCC6B0065E175 /* settings-50.png in Resources */,
+				C391FC5D194C4A3E00D9D6B2 /* motorcycle-128.png in Resources */,
 				C391FC30194C167500D9D6B2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,8 +335,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C391FC53194C2BB700D9D6B2 /* PBItem.m in Sources */,
 				C391FC2D194C167500D9D6B2 /* PBAppDelegate.m in Sources */,
 				C391FC33194C167500D9D6B2 /* PBViewController.m in Sources */,
+				C39CA2AD194CCE070065E175 /* PBAboutUsViewController.m in Sources */,
 				C391FC29194C167500D9D6B2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -377,6 +464,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "phonebook.sg/phonebook.sg-Prefix.pch";
 				INFOPLIST_FILE = "phonebook.sg/phonebook.sg-Info.plist";
@@ -390,6 +478,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "phonebook.sg/phonebook.sg-Prefix.pch";
 				INFOPLIST_FILE = "phonebook.sg/phonebook.sg-Info.plist";
@@ -457,6 +546,7 @@
 				C391FC4D194C167500D9D6B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C391FC4E194C167500D9D6B2 /* Build configuration list for PBXNativeTarget "phonebook.sgTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +555,7 @@
 				C391FC50194C167500D9D6B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

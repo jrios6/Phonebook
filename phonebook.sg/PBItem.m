@@ -1,13 +1,14 @@
 //
-//  PBViewController.h
+//  PBItem.m
 //  phonebook.sg
 //
 //  Created by Ong Jia Rui on 14/6/14.
 //  Copyright (c) 2014 jRios. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "PBItem.h"
 
-@interface PBViewController : UITableViewController
+@implementation PBItem
+
 
 @end
